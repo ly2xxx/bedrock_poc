@@ -10,7 +10,7 @@ anthropic.claude-v2|amazon.titan-embed-text-v1
 **Stream 6: Working with SQL database**  
 Anthropic Claude v2 on MySQL
 ![alt text](image-stream6.png)
-![alt text](image-6-demo.png)
+![alt text](image-stream6-demo.png)
 
 **Stream 7: Working with graphs**  
 anthropic.claude-v2
